@@ -1,0 +1,2 @@
+# TradingSystem
+尝试通过codex写一个提供数据与执行的加密货币交易系统
